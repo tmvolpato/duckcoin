@@ -1,2 +1,2 @@
 # duckcoin
-Token BEP-20
+Criação do Token BEP-20
